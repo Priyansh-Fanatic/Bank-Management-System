@@ -1,8 +1,8 @@
 ## Table of contents
 * [General info](#general-info)
 * [Demo](#demo)
-* [Features](Features)
-* [Installation](Installation)
+* [Features](#Features)
+* [Installation](#Installation)
     
 ## General info
 
