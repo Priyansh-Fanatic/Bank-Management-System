@@ -1,8 +1,8 @@
 ## Table of contents
 * [General info](#general-info)
 * [Demo](#demo)
-* [Features](#Features)
-* [Getting Started](#Getting-Started)
+* [Features](Features)
+* [Installation](Installation)
     
 ## General info
 
@@ -54,7 +54,7 @@ __5. Database Management:__
 - On first run, the system checks for the existence of the necessary database and tables, creating them if they do not exist.
 
 
-## Getting Started
+## Installation
 
 - Clone the project
 
@@ -67,5 +67,9 @@ __5. Database Management:__
 ```bash
   cd Bank-Management-System
 ```
-Then use it in your local system.
+__You can now start working with the files in the repository.__
+
+## Author
+
+- **[Priyansh](https://github.com/Priyansh-Fanatic)**
 
