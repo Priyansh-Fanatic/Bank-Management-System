@@ -56,13 +56,13 @@ __5. Database Management:__
 
 ## Getting Started
 
-Clone the project
+- Clone the project
 
 ```bash
   git clone https://github.com/Priyansh-Fanatic/Bank-Management-System.git
 ```
 
-Go to the project directory
+- Once the repository is cloned, navigate into the project directory
 
 ```bash
   cd Bank-Management-System
